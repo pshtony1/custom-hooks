@@ -1,0 +1,27 @@
+{
+  "name": "@feca-hooks/use-confirm",
+  "version": "1.0.0",
+  "description": "React Hook to create confirm message faster and easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshtony1/custom-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "hook",
+    "confirm",
+    "browser",
+    "alert"
+  ],
+  "author": "pshtony1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pshtony1/custom-hooks/issues"
+  },
+  "homepage": "https://github.com/pshtony1/custom-hooks#readme"
+}

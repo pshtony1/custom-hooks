@@ -1,0 +1,26 @@
+{
+  "name": "@feca-hooks/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshtony1/custom-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title",
+    "hook"
+  ],
+  "author": "pshtony1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pshtony1/custom-hooks/issues"
+  },
+  "homepage": "https://github.com/pshtony1/custom-hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

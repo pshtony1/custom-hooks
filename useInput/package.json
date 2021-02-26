@@ -1,0 +1,30 @@
+{
+  "name": "@feca-hooks/use-input",
+  "version": "1.0.0",
+  "description": "React Hook to create input element  faster.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshtony1/custom-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "hook",
+    "input",
+    "text"
+  ],
+  "author": "pshtony1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pshtony1/custom-hooks/issues"
+  },
+  "homepage": "https://github.com/pshtony1/custom-hooks#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

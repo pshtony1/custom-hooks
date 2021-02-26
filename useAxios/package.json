@@ -1,0 +1,33 @@
+{
+  "name": "@feca-hooks/use-axios",
+  "version": "1.0.0",
+  "description": "React Hook to fetch or re-fetch api using axios easier ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshtony1/custom-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "hook",
+    "axios",
+    "fetch",
+    "refetch",
+    "api"
+  ],
+  "author": "pshtony1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pshtony1/custom-hooks/issues"
+  },
+  "homepage": "https://github.com/pshtony1/custom-hooks#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
