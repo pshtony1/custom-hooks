@@ -1,4 +1,4 @@
-# @feca-hooks/use-fade-in
+# @feca-hooks/use-fadein
 
 React Hook to **add fade-in animation faster and easier.**
 
@@ -8,11 +8,11 @@ React Hook to **add fade-in animation faster and easier.**
 
 #### yarn
 
-`yarn add @feca-hooks/use-fade-in`
+`yarn add @feca-hooks/use-fadein`
 
 #### npm
 
-`npm i @feca-hooks/use-fade-in`
+`npm i @feca-hooks/use-fadein`
 
 <br />
 
@@ -22,7 +22,7 @@ React Hook to **add fade-in animation faster and easier.**
 
 ```
 import React from "react";
-import useFadeIn from "@feca-hooks/use-fade-in";
+import useFadeIn from "@feca-hooks/use-fadein";
 
 function App() {
   // Arguments: fromOpacity, toOpacity, duration, cubicBezier, delay
