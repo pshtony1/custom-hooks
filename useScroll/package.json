@@ -1,6 +1,6 @@
 {
   "name": "@feca-hooks/use-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Hook to create scroll event faster and easier.",
   "main": "index.js",
   "scripts": {

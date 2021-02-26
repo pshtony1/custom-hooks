@@ -3,7 +3,7 @@ export const useNotification = (title, options) => {
     return null;
   }
 
-  const fireNotification = () => {
+  const sendNotification = () => {
     if (Notification.permission !== "granted") {
       Notification.requestPermission().then((permission) => {
         if (permission === "granted") {
@@ -15,5 +15,5 @@ export const useNotification = (title, options) => {
     }
   };
 
-  return fireNotification;
+  return sendNotification;
 };

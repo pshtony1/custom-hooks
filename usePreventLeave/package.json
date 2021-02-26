@@ -1,6 +1,6 @@
 {
   "name": "@feca-hooks/use-prevent-leave",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Hook to prompt the user for confirmation before leaving the page.",
   "main": "index.js",
   "scripts": {

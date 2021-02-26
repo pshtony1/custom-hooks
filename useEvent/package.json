@@ -1,6 +1,6 @@
 {
   "name": "@feca-hooks/use-event",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Hook to add event on element or component faster and easier.",
   "main": "index.js",
   "scripts": {

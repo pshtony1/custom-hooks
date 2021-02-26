@@ -1,6 +1,6 @@
 {
   "name": "@feca-hooks/use-fadein",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Hook to add fade-in animation faster and easier.",
   "main": "index.js",
   "scripts": {

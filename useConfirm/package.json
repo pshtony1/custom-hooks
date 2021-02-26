@@ -1,6 +1,6 @@
 {
   "name": "@feca-hooks/use-confirm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Hook to create confirm message faster and easier.",
   "main": "index.js",
   "scripts": {
